@@ -33,7 +33,7 @@ La organización requería resolver tres retos analíticos clave:
 
 ## 🖼️ Evidencias / Dashboard
 
-![Dashboard de Productividad y Piezas Fabricadas](Finanzas.pdf)[cite: 10]
+![Dashboard de Finanzas](Finanzas.pdf)[cite: 10]
 
 ---
 
