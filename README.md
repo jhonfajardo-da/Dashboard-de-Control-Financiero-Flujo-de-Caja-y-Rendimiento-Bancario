@@ -65,7 +65,7 @@ La solución permite auditar ingresos, egresos, saldos consolidados y rendimient
 
 ## 🖼️ Evidencias / Dashboard
 
-![Dashboard de Control Financiero](screenshots/overview.png)[cite: 10]
+![Dashboard de Control Financiero](Finanzas.pdf)[cite: 10]
 
 ---
 
