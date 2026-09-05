@@ -31,6 +31,12 @@ La organización requería resolver tres retos analíticos clave:
 * Creación de catálogo de bancos e integración de identidades visuales para optimizar la experiencia UX/UI.
 * Conexión con tabla de calendario dimensional para análisis temporal.
 
+## 🖼️ Evidencias / Dashboard
+
+![Dashboard de Productividad y Piezas Fabricadas](screenshots/overview.png)[cite: 10]
+
+---
+
 ### 2. Medidas DAX Implementadas
 ```dax
 // 1. Total Pagos Recibidos (Ingresos Brutos)
